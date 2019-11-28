@@ -8,7 +8,7 @@ var http = require('http'),
 var router = express();
 var server = http.createServer(router);
 
-router.use(express.static(path.resolve(__dirname, 'views')));
+router.use(express.static(path.resolve(__dirname, 'vwebCA/iews')));
 
 router.get('/', function(req, res){
 
