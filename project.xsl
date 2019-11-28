@@ -7,7 +7,8 @@
                             <th colspan="3">Membership's Price List</th>
                         </tr>
                         <tr>
-        
+                                    <th>Select</th>
+
                             <th>Slot</th>
                             <th>Price</th>
                         </tr>
